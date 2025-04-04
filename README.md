@@ -44,7 +44,7 @@ This portfolio is a fully responsive, dark-themed website built using HTML and C
 
 ### Homepage
 ![Homepage](assets/screenshots/home.png)
-### About Page*
+### About Page
 ![Aboutpage](assets/screenshots/about.png)
 ### Projects Page
 ![Projectspage](assets/screenshots/projects.png)
@@ -53,6 +53,8 @@ This portfolio is a fully responsive, dark-themed website built using HTML and C
 ## Testimonials Page
 ![Testimonialspage](assets/screenshots/testimonials.png)
 
-## 📩 Contact
-- **GitHub:** [willy-havertz](https://github.com/willy-havertz)
-- **LinkedIn:** [wiltord-ichingwa](https://www.linkedin.com/in/wiltord-ichingwa)
+## Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/wiltord-ichingwa)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge)](https://github.com/willy-havertz)
+
