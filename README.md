@@ -1,10 +1,10 @@
 # Wiltord Ichingwa Portfolio
 
-Welcome to my personal portfolio website! I am **Wiltord Ichingwa**, a Software Engineer with a passion for building exceptional and accessible digital experiences for the web. This website showcases my work, skills, testimonials, and provides an easy way for potential collaborators to get in touch.
+Welcome to my personal portfolio website! I am **Wiltord**, a Software Engineer with a passion for building exceptional and accessible digital experiences for the web. This website showcases my work, skills, testimonials, and provides an easy way for potential collaborators to get in touch.
 ## My hosted website link
 
 Check out the website of my portfolio:  
-[Live Link](https://your-netlify-site.netlify.app)
+[Click Here](https://your-netlify-site.netlify.app)
 
 ## Overview
 
@@ -30,10 +30,25 @@ This portfolio is a fully responsive, dark-themed website built using HTML and C
 - **HTML5** for structure.
 - **CSS3** for styling and animations.
 - **SVG Icons** for crisp, scalable social media icons.
+- **Render** Hosting platfofrm.
 
 ## Getting Started
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/willy-havertz/portfolio-hackathon1.git
+   cd portfolio-hackathon1
+
+## Screenshots
+
+- **Home Section**
+- `screenshots/home.png`
+- **About Section**
+- `screenshots/about.png`
+- **Projects Section**
+- `screenshots/projects.png`
+- **Skills and Technologies Section**
+- `screenshots/skills & tech.png`
+- **Testimonials Section**
+- `screenshots/testimonials.png`
